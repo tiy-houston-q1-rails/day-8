@@ -31,7 +31,7 @@ people = [
   Person.new("Jaime", "Lanister", "Casterly Rock"),
   Person.new("Cerse", "Lanister", "Casterly Rock"),
   Person.new("Eddard", "Stark", "Winterfell"),
-  Person.new("Catelyn", "Stark", "Winterfell"),
+  Person.new("Catelyn", "Stark", "Riverrun"),
   Person.new("Robb", "Stark", "Winterfell"),
   Person.new("Margaery", "Tyrell", "Highgarden"),
 ]
