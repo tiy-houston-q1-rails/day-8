@@ -48,10 +48,46 @@ Quiz 2: fizzbuzz
 > numbers which are multiples of both three and five
 > print "FizzBuzz".
 
-* Checking if a number is divisible by another is called modulo. 
+* Checking if a number is divisible by another is called modulo.
 * So 4 is divisible by 2 because 4 % 2 has no remainder
 * `4 % 2 == 0` or `4.modulo(2) == 0`
 
+
+Quiz 3: Palindrome
+-------------------
+
+> Write a method that tests if a word is a palindrome
+> Example of a palindrome: "abba"
+> Not a palindrom: "dog"
+
+```ruby
+class String
+  def palindrome?
+    self.reverse == self
+  end
+end
+```
+
+>  Watch my powers
+
+```ruby
+
+class Fixnum
+
+  def odd?
+    false
+  end
+
+  def ==(other)
+    false
+  end
+
+  def +(other)
+    42
+  end
+end
+
+```
 
 Homework
 --------
