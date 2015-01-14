@@ -74,13 +74,15 @@ This weeks Ruby Quiz is to implement a Secret Santa selection script.
 
 Example of data file:
 
-> Luke Skywalker <luke@theforce.net>  
-> Leia Skywalker <leia@therebellion.org>  
-> Toula Portokalos <toula@manhunter.org>  
-> Gus Portokalos <gus@weareallfruit.net>  
-> Bruce Wayne <bruce@imbatman.com>  
-> Virgil Brigman <virgil@rigworkersunion.org>  
-> Lindsey Brigman <lindsey@iseealiens.net>  
+```
+Luke Skywalker <luke@theforce.net>  
+Leia Skywalker <leia@therebellion.org>  
+Toula Portokalos <toula@manhunter.org>  
+Gus Portokalos <gus@weareallfruit.net>  
+Bruce Wayne <bruce@imbatman.com>  
+Virgil Brigman <virgil@rigworkersunion.org>  
+Lindsey Brigman <lindsey@iseealiens.net>  
+```
 
 Note: If you cannot tell, I made those addresses up and you'll need to replace
 them with something meaningful. Please don't pester those people, should they
